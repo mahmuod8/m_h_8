@@ -523,10 +523,10 @@ if (message.content === '$spam') {
 });
 
 client12.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -537,10 +537,10 @@ if (message.content === '$spam') {
 });
 
 client13.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -551,10 +551,10 @@ if (message.content === '$spam') {
 });
 
 client14.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -565,10 +565,10 @@ if (message.content === '$spam') {
 });
 
 client15.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -579,10 +579,10 @@ if (message.content === '$spam') {
 });
 
 client16.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -593,10 +593,10 @@ if (message.content === '$spam') {
 });
 
 client17.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -607,10 +607,10 @@ if (message.content === '$spam') {
 });
 
 client18.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -621,10 +621,10 @@ if (message.content === '$spam') {
 });
 
 client19.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -635,10 +635,10 @@ if (message.content === '$spam') {
 });
 
 client20.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -649,10 +649,10 @@ if (message.content === '$spam') {
 });
 
 client21.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -663,10 +663,10 @@ if (message.content === '$spam') {
 });
 
 client22.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -677,10 +677,10 @@ if (message.content === '$spam') {
 });
 
 client23.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
@@ -691,10 +691,10 @@ if (message.content === '$spam') {
 });
 
 client24.on('message', message => {
-if (message.content === '$spam') {
+if (message.content === '$fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 9000; x++) {
+      for(let x = 0; x < 300; x++) {
         message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
           .then(m => {
             count++;
